@@ -1,5 +1,4 @@
 # AmasIowaHousing
-Predict sales prices of the Amas Iowa Housing and practice feature engineering, RFs, and gradient boosting
 
 Neste desafio, trabalhei com dados relacionados aos preços de casas em Iowa, e minha abordagem envolveu a aplicação de dois modelos de regressão diferentes: a Regressão Linear e o ElasticNet.
 
